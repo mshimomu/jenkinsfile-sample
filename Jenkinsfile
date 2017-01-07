@@ -1,4 +1,4 @@
-node (windows1){
+node ('windows1'){
   stage 'main'
 //  git url: 'https://github.com/mshimomu/jenkinsfile-sample.git'
   checkout scm
