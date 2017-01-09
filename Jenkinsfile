@@ -1,5 +1,5 @@
 node ('windows1'){
-  stage 'checkout'
+  stage 'main'
   checkout scm
   echo 'checkout complete!'
 }
